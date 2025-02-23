@@ -46,3 +46,8 @@
 Откройте cmd и пропишите путь до директории pip
 
 `cd C:\Users\Andrew\AppData\Local\Programs\Python\Python312\Scripts` после чего можете вводить `pip install opencv-python numpy keyboard mss pyautogui`
+
+### Небольшая демонстрация работы на проекте:
+
+![Untitled-1](https://github.com/user-attachments/assets/dd2a1016-cbda-47a4-a53f-d66bc63fbe84)
+
