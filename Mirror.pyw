@@ -9,7 +9,7 @@ import pyautogui
 import ctypes
 
 # Configuration Settings
-SAVE_PATH = r"C:\Users\Andrew\Desktop\Screenshots"
+SAVE_PATH = r"C:\Mirror_Screenshots"
 os.makedirs(SAVE_PATH, exist_ok=True)
 
 is_flipped = False
