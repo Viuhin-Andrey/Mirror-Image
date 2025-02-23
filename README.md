@@ -1,4 +1,4 @@
-# Mirror-Image
+# Mirror Image
 
 ### Для работы необходимо:
 
