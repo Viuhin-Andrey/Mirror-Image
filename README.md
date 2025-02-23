@@ -14,7 +14,8 @@
 
 ⚙️ Добавьте удобный способ запуска скрипта (у меня это autoHot pie menu - https://github.com/dumbeau/AutoHotPie/releases)
 
-![ScriptView](https://github.com/user-attachments/assets/923cbc38-c0b1-4a24-9867-13f5947fa297)
+![ScriptView](https://github.com/user-attachments/assets/ab1468e7-e45e-4716-985a-5ee423d0877b)
+
 
 ### Функционал
 
